@@ -31,6 +31,17 @@ firebase deploy --only hosting    # project: learnskrilla
 
 Commit and push after every meaningful change.
 
+## Visual verification
+
+Headless Chromium works on this machine (system deps installed). For
+layout-affecting changes, verify at phone size before deploying: serve
+`_site/`, then drive it with `playwright-core` (npm-install it in the
+scratchpad) launching the browser from `~/.cache/ms-playwright/
+chromium_headless_shell-*/chrome-headless-shell-linux64/chrome-headless-shell`.
+Check: no horizontal overflow (scrollWidth == viewport), article h1 near
+the top of the first screen, both color schemes. Do not trust screenshots
+taken through Windows Chrome (`/mnt/c/...`) — display scaling distorts them.
+
 ## Hard constraints
 
 - Zero third-party requests at runtime (no CDN fonts/scripts/analytics).
