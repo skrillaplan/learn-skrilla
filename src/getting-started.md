@@ -12,6 +12,10 @@ The system is old and it works: **give every dollar a job.** Money comes in,
 you assign it to envelopes, you spend from the envelopes. The app keeps the
 envelopes honest. Four steps get you there.
 
+One note on finding your way: the screens live in tabs — across the top on
+a computer, in a bar along the bottom on your phone. Same screens, thumb
+height.
+
 ## Step 1 — Get your transactions flowing
 
 Two doors. Pick either. Pick both.
@@ -20,6 +24,11 @@ Two doors. Pick either. Pick both.
 Sign in through Plaid — your bank password never touches us. Connect
 everything money moves through: checking, savings, credit cards. From now on,
 transactions arrive on their own, every morning.
+
+A new connection also back-fills months of history. If **Ready to Assign**
+suddenly reads scary-negative, nothing is wrong — that's old history, not
+your plan. Set your budget's start month and the number tells the truth
+again. *→ the fix: [Budget](/screens/budget/)*
 
 **Or import your history** (the manual way): **Import**, then drop in a bank
 CSV — or your whole **YNAB export zip**, unopened. Categories you don't have
@@ -69,6 +78,12 @@ Zero isn't broke. Zero is *decided*.
 
 Done when: Ready to Assign = $0.00 and nothing important reads red.
 *→ details: [Budget](/screens/budget/)*
+
+## Put it on your phone
+
+The budget you check is the budget that works, and you check things on your
+phone. Two taps put SkrillaPlan on your home screen — real icon, full
+screen, no app store. *→ how: [Put SkrillaPlan on your phone](/guides/install-on-your-phone/)*
 
 ## Living it (the part that matters)
 

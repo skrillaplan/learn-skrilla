@@ -22,6 +22,31 @@ The big number at the top. It's the money that has no job yet.
 Income lands here automatically: any transaction you categorize as **Income**
 feeds Ready to Assign.
 
+### Show the math
+
+A number you can't explain is a number you can't trust. So the banner shows
+its work: **tap the big number** and a panel breaks it down in plain words —
+money that came in, minus money you gave a job, minus overspending carried
+from earlier months. The three lines always add up to the banner. One tap
+closes it.
+
+### The start month
+
+Inside that panel: **Budget starts**, with a month picker (editors and
+admins). Your budget counts from that month forward. Anything earlier stays
+visible in Transactions and Reports — it just doesn't create overspending
+debt in your plan.
+
+This matters most once: you connect a bank, it back-fills months of
+history, and suddenly the banner says you're $23,000 in the red. The math
+was right — the data was just incomplete. All that old spending was never
+spending against your plan; it's history you hadn't budgeted. Set the start
+month and the number tells the truth about your plan, not your past.
+
+New households start at the month they signed up. Households from before
+this feature count all history until they pick a month — if your number
+looks crazy, this picker is the fix.
+
 ## The month
 
 Arrows at the top move between months. Each month is its own plan.
