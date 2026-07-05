@@ -1,0 +1,96 @@
+---
+title: Getting started
+order: 0
+---
+
+# Getting started
+
+You can set this up in an evening. Most people spend years avoiding their
+money in less time than that. Let's go.
+
+The system is old and it works: **give every dollar a job.** Money comes in,
+you assign it to envelopes, you spend from the envelopes. The app keeps the
+envelopes honest. Four steps get you there.
+
+## Step 1 — Get your transactions flowing
+
+Two doors. Pick either. Pick both.
+
+**Connect your banks** (the automatic way): **Banks → + Connect a bank**.
+Sign in through Plaid — your bank password never touches us. Connect
+everything money moves through: checking, savings, credit cards. From now on,
+transactions arrive on their own, every morning.
+
+**Or import your history** (the manual way): **Import**, then drop in a bank
+CSV — or your whole **YNAB export zip**, unopened. Categories you don't have
+are created for you. Your history comes with you.
+
+Done when: the Transactions screen shows real life.
+*→ details: [Banks](/screens/banks/), [Import](/screens/import/)*
+
+## Step 2 — Make the categories yours
+
+Go to **Categories**. You start with a sensible set — now say it in your own
+words. Rename what's close. Archive what isn't you. Add what's missing (the
+icon picker is right there; find the dog, the guitar, the kid).
+
+Keep it small. Ten categories you'll actually use beat thirty you won't. If
+two categories are hard to tell apart, they're one category.
+
+Want the whole app in your colors too? **Account → Theme card** — six looks,
+one click. Pick your kind of loud (or quiet).
+
+Done when: every category is a word you'd actually say out loud.
+*→ details: [Categories](/screens/categories/)*
+
+## Step 3 — Categorize what happened
+
+Go to **Transactions**. Much of it is already categorized — your job is to
+correct and confirm. Work the **Unreviewed only** filter: pick the envelope,
+row goes ✓, next. Paychecks and deposits get **＋ Income** — that's the money
+you'll budget in a minute.
+
+Credit-card payments and account transfers? Already spotted and moved to the
+**Special** tab. They're not spending. Leave them be.
+
+Done when: Unreviewed shows zero. Enjoy that for a second.
+*→ details: [Transactions](/screens/transactions/)*
+
+## Step 4 — Give every dollar a job
+
+Go to **Budget**. The number at the top — **Ready to Assign** — is real money
+waiting for orders.
+
+Click down the **Assigned** column: rent gets rent, groceries get groceries,
+the card payment gets its share. Yes to fun money — a budget with no joy in
+it is a diet, and diets end. Keep going until Ready to Assign reads **zero**.
+
+Zero isn't broke. Zero is *decided*.
+
+Done when: Ready to Assign = $0.00 and nothing important reads red.
+*→ details: [Budget](/screens/budget/)*
+
+## Living it (the part that matters)
+
+Setup was the easy part. The habit is three small moves:
+
+- **A few times a week (5 minutes):** Transactions → **Unreviewed only** →
+  categorize → done. Glance at the sync light: green fresh, red stale.
+- **When a category runs dry:** don't quit — **move money**. Click the
+  Available number, take from a category that can spare it. Moving money
+  isn't failing the plan; moving money *is* the plan.
+- **Payday:** new money lands in Ready to Assign. Assign it to zero. Each
+  paycheck gets easier than the last.
+- **Once a month (15 minutes):** open **Reports**. Read *Spending changes* —
+  it tells you what's different. Skim the *recurring* list and cancel one
+  thing you forgot. Watch *Age of Money* climb.
+
+Set a **goal** on one category this week (click its name — 🎯). An emergency
+fund of $500 is a fine first goal. Watch the bar fill. That bar is you,
+keeping a promise to yourself.
+
+Sharing the budget? **Account → Invite** brings your partner in — same
+budget, live, with an activity log so nobody wonders who moved what.
+
+That's the whole system. Dollars in, jobs assigned, envelopes honest.
+You're not "getting good with money." You're already doing it.
