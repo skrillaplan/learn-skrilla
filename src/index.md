@@ -8,6 +8,10 @@ title: Welcome
 comes in, you give every dollar a job, you spend from the envelopes. The app
 keeps the envelopes honest.</p>
 
+**Never budgeted before? You're exactly who this is for.** No spreadsheet
+scars, no jargon to unlearn — just an old, honest system and an evening to
+set it up. Start at the beginning and we'll walk every step.
+
 <a class="cta" href="/getting-started/">Start here — set it up in an evening →</a>
 
 ## What it is
@@ -41,17 +45,16 @@ read. That's on purpose. The even shorter version lives here:
 
 ## Find your way
 
-- **New here?** [Getting started](/getting-started/) — four steps, one
-  evening.
-- **New to the method?** [Envelope budgeting, plainly](/envelope-budgeting/)
-  — what "give every dollar a job" means and why it works.
+- **Never budgeted before?** Start with
+  [Envelope budgeting, plainly](/envelope-budgeting/) — the whole idea in
+  five minutes — then [Getting started](/getting-started/) to do it for real.
+  This is the front door. Everything else can wait.
 - **In the alpha?** [Welcome](/alpha/) — what we ask, what you get.
 - **On a screen and wondering what a button does?** The walkthroughs in the
   sidebar cover every screen, top to bottom: [Budget](/screens/budget/),
   [Transactions](/screens/transactions/), [Reports](/screens/reports/), and
   the rest.
-- **Task in mind?** Guides, like
-  [Receipt matching](/guides/receipt-matching/) — turn "Amazon $97.75" into
-  the thing you actually bought.
+- **Coming from another app?** We'll take your data and your muscle memory:
+  [from YNAB](/guides/ynab-import/) or [from Monarch](/guides/monarch/).
 
 That's the whole map. Dollars in, jobs assigned, envelopes honest.

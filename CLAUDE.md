@@ -18,9 +18,20 @@ not drafts — you own the words.
 Hemingway meets lifecoach. Short sentences. Plain words. Warm, never
 gushing. Second person, present tense, active voice. App labels in
 **bold**, exactly as displayed ("**Move money**", "**Special**",
-"$7.99/mo"). Read an existing article in `src/screens/` before writing.
+"$9.99/mo"). Read an existing article in `src/screens/` before writing.
 Never imply data is held hostage; never document admin-only internal
 tooling.
+
+## Audience — beginner-first (Bobby, 2026-07-06)
+
+The PRIMARY reader has **never budgeted before** — no prior tool, no
+jargon, no muscle memory. Envelope-101 (`/envelope-budgeting/`) and
+`/getting-started/` are the front door; write for someone meeting the whole
+idea for the first time. Switcher guides (YNAB, Monarch) still ship but are
+bottom-of-funnel — never the top of the site. Monarch users are closer to
+beginners than to YNAB users (they're watchers, not budgeters), so that
+guide teaches the method, not just data migration. Current price: **$9.99/mo
+or $79/yr** (annual = four months free).
 
 ## Build & deploy
 
