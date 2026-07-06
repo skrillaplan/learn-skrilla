@@ -36,12 +36,16 @@ password never touches us. Even this help site loads nothing from anyone
 else — check the network tab, we'll wait.
 
 The [privacy policy](https://skrillaplan.com/privacy) takes five minutes to
-read. That's on purpose.
+read. That's on purpose. The even shorter version lives here:
+[What we don't do](/what-we-dont-do/).
 
 ## Find your way
 
 - **New here?** [Getting started](/getting-started/) — four steps, one
   evening.
+- **New to the method?** [Envelope budgeting, plainly](/envelope-budgeting/)
+  — what "give every dollar a job" means and why it works.
+- **In the alpha?** [Welcome](/alpha/) — what we ask, what you get.
 - **On a screen and wondering what a button does?** The walkthroughs in the
   sidebar cover every screen, top to bottom: [Budget](/screens/budget/),
   [Transactions](/screens/transactions/), [Reports](/screens/reports/), and

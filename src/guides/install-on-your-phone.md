@@ -1,6 +1,6 @@
 ---
 title: "Put SkrillaPlan on your phone"
-order: 25
+order: 26
 ---
 
 # Put SkrillaPlan on your phone

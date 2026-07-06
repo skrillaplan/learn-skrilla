@@ -33,6 +33,9 @@
     <p class="nav-group">Start here</p>
     <ul>
       <li><a href="/getting-started/" {% if page.url == "/getting-started/" %}aria-current="page"{% endif %}>Getting started</a></li>
+      <li><a href="/envelope-budgeting/" {% if page.url == "/envelope-budgeting/" %}aria-current="page"{% endif %}>Envelope budgeting, plainly</a></li>
+      <li><a href="/what-we-dont-do/" {% if page.url == "/what-we-dont-do/" %}aria-current="page"{% endif %}>What we don't do</a></li>
+      <li><a href="/show-the-math/" {% if page.url == "/show-the-math/" %}aria-current="page"{% endif %}>A budget that shows its work</a></li>
     </ul>
     <p class="nav-group">The screens</p>
     <ul>
@@ -45,6 +48,15 @@
       {%- for item in collections.guides %}
       <li><a href="{{ item.url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.data.title }}</a></li>
       {%- endfor %}
+    </ul>
+    <p class="nav-group">Alpha</p>
+    <ul>
+      <li><a href="/alpha/" {% if page.url == "/alpha/" %}aria-current="page"{% endif %}>Welcome to the alpha</a></li>
+      <li><a href="/alpha/faq/" {% if page.url == "/alpha/faq/" %}aria-current="page"{% endif %}>Alpha FAQ</a></li>
+    </ul>
+    <p class="nav-group">Help</p>
+    <ul>
+      <li><a href="/troubleshooting/" {% if page.url == "/troubleshooting/" %}aria-current="page"{% endif %}>Troubleshooting &amp; FAQ</a></li>
     </ul>
   </nav>
   </details>
