@@ -34,6 +34,10 @@ payment gets its share, savings gets a named purpose instead of "whatever's
 left." Whatever's left is never left — it's assigned too, even if the job
 is "next month" or "fun."
 
+This is also [why we don't show you a bank balance](/no-bank-balances/): a
+balance is money with its jobs still hidden. Envelopes are the same money
+with its jobs made plain.
+
 When there's nothing unassigned, you're done. Zero isn't broke. Zero is
 *decided*.
 

@@ -61,11 +61,48 @@ Every row is an envelope. Four columns:
 
 - **Category** — the job. Click the name to set a goal (look for the 🎯).
 - **Assigned** — what you gave it this month. Click the number, type a new
-  one, press Enter. That's budgeting. That's the whole move.
+  one, press Enter. That's budgeting. That's the whole move. Under it, on a
+  wider screen, sits **avg $X** — what you typically spend here — and a **±**
+  reading, both explained below.
 - **Activity** — what actually happened. Spending shows negative. This column
   comes from your transactions; you don't edit it here.
 - **Available** — Assigned plus rollover minus spending. The number that
   matters at the store. Green means go. Red means that category overspent.
+
+## Budgets that carry themselves forward
+
+Set an amount once and it keeps going. Assign the mortgage $1,700.80 in
+April and May shows $1,700.80 too, and June, and onward — no action, nothing
+to click. A budget that carries itself forward is a plan; one you rebuild
+twelve times a year is a chore.
+
+Editing re-anchors from that month on. Change the grocery envelope in June
+and July inherits June, not April. The past stays as you left it; the future
+follows your latest word.
+
+Set an amount to **0** — or clear it — and inheritance stops there. Zero is
+a decision too.
+
+One thing to keep honest: inherited amounts are real commitments. They pull
+from Ready to Assign like any assignment, and they show up in the
+show-the-math panel. The plan repeats until you re-plan it — it doesn't
+quietly forgive itself.
+
+## The average, and the ±
+
+Under each Assigned amount, on a wider screen, you'll see **avg $X** — what
+you actually spend in that envelope, typically, over the last few months —
+with a **±** next to it:
+
+- **Green +** — what you've assigned covers what you usually spend. Room to
+  breathe.
+- **Red −** — you typically spend more here than you've planned. Assign more
+  or spend less; both are honest answers.
+
+The average is of spending, not of what you assigned — it's the envelope
+telling you its real size. Red isn't a scold. It's the number you needed to
+know, said out loud. Let the averages teach you what your life actually
+costs, then set amounts that match and let the months run themselves.
 
 ## Moving money
 

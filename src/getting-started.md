@@ -76,6 +76,11 @@ it is a diet, and diets end. Keep going until Ready to Assign reads **zero**.
 
 Zero isn't broke. Zero is *decided*.
 
+Here's the part that makes it stick: **you only do this once.** Every amount
+you set carries into next month on its own, and the month after. Set the
+mortgage once and it's set until you change it. You're not signing up for
+this chore twelve times a year — you're writing a plan that repeats.
+
 Done when: Ready to Assign = $0.00 and nothing important reads red.
 *→ details: [Budget](/screens/budget/)*
 

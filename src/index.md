@@ -22,7 +22,7 @@ who changed what. No mystery, no fights about mystery.
 
 ## What it costs
 
-One plan, everything in it: **$7.99/mo** or **$79/yr**. No tiers, no
+One plan, everything in it: **$9.99/mo** or **$79/yr**. No tiers, no
 feature ransom. Free during alpha. The details are at
 [skrillaplan.com/pricing](https://skrillaplan.com/pricing) — and whatever
 happens with your subscription, you can always see and export every byte of

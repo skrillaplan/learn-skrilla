@@ -74,7 +74,7 @@ The honest tour, both directions:
   charging without bending your envelopes. *→ [Tags](/guides/tags/)*
 - **Privacy is the product.** No trackers, no analytics scripts, nothing
   third-party — here and in the app. *→ [What we don't do](/what-we-dont-do/)*
-- **One price, everything in it:** $7.99/mo or $79/yr. No tiers.
+- **One price, everything in it:** $9.99/mo or $79/yr. No tiers.
 
 And the other direction, plainly: SkrillaPlan is younger. Some polish YNAB
 has had a decade to grow is still arriving here week by week. That's the

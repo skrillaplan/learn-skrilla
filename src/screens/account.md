@@ -81,7 +81,7 @@ picker itself lives on the [Categories screen](/screens/categories/).
 
 ## Billing
 
-One plan, everything in it: **$7.99/mo** or **$79/yr** — annual is two
+One plan, everything in it: **$9.99/mo** or **$79/yr** — annual is four
 months free. No tiers, no feature ransom. The full picture lives at
 [skrillaplan.com/pricing](https://skrillaplan.com/pricing).
 

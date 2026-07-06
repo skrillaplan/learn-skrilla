@@ -45,7 +45,7 @@ Three things, none of them heavy:
 
 Complete the feedback program and your household is **free for life** —
 the 🏆 founding-household badge on your [Account page](/screens/account/),
-and it stays given. Everyone else pays $7.99 a month someday. You never
+and it stays given. Everyone else pays $9.99 a month someday. You never
 will. That's the trade, stated plainly: your honest attention now, our
 gratitude forever.
 
