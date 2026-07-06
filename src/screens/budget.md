@@ -104,6 +104,31 @@ telling you its real size. Red isn't a scold. It's the number you needed to
 know, said out loud. Let the averages teach you what your life actually
 costs, then set amounts that match and let the months run themselves.
 
+## One-tap assigning
+
+Under each Assigned amount, on a wider screen, sit three small buttons —
+**default**, **avg**, and **⚙**. The budget learns your real numbers, then
+hands them back as one-tap suggestions. You stay the decider; it does the
+arithmetic.
+
+- **default** — assigns this line's default amount to the month you're
+  looking at. Set the default in **⚙**; until you do, the button stays
+  dimmed. Good for fixed bills — rent is rent.
+- **avg** — assigns the running average, what you typically spend here.
+  Dimmed until the line has some spending to average. Good for the envelopes
+  that drift, like groceries.
+- **⚙** — this line's settings: the default amount, how many months the
+  average looks back (3, 6, or 12), and any months to **leave out of the
+  average**. Cross out the vacation, the move, the three-paycheck month —
+  anything that would skew the line — and it stops counting.
+
+Building a fresh month goes quick: tap **avg** down the column, fix the few
+lines that need a human, done. And remember these sit on top of inheritance
+(above) — months already carry their amounts forward on their own. The
+buttons are for when you want to re-anchor a line on purpose.
+
+These three live on wider screens for now; the phone grid stays lean.
+
 ## Moving money
 
 Plans meet reality. Reality usually wins. That's fine — move the money.
