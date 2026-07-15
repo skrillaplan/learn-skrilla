@@ -24,19 +24,18 @@ Every member sees everything. Roles decide who can *change* things:
 Not sure? Start with viewer. Promotion is a dropdown; you can change a role
 any time from the [Account screen](/screens/account/).
 
-## Step 2 — Send the invite
+## Step 2 — Get them the invite
 
 **Account** screen, two ways:
 
-- **Invite by email** — enter their address and a role. When they sign in
-  with that Google account, they land in your budget automatically. Type
-  the email carefully — the match is exact.
+- **Invite by email** — enter their address and a role. Nothing is emailed
+  yet: use **Copy link** on the pending invite and text it to them yourself.
+  When they sign in with that Google account, they land in your budget.
+  Type the email carefully — the match is exact.
 - **Invite link** — generate a link, send it however you like. Whoever
   opens it and signs in, joins.
 
-Heads up: **invites aren't emailed yet.** After inviting, use **Copy link**
-on the pending invite and text it to them yourself. A pending invite can be
-revoked any time before it's used.
+A pending invite can be revoked any time before it's used.
 
 The household holds **5 logins** — you plus four. Members and pending
 invites both hold a seat. Enough for a family, too few for a dorm. On

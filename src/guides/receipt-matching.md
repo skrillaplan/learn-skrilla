@@ -17,7 +17,8 @@ see.
 
 1. **Account → Integrations** — flip **Gmail receipt matching** on. One
    switch for the whole household, off by default.
-2. Click **Connect my Gmail** and approve. Each member connects their own
+2. Click **Connect my Gmail** and approve Google's permission screen. Each
+   member connects their own
    mailbox; connect the one where your Amazon confirmations actually land.
 
 About privacy: we search for **Amazon order confirmations only** —

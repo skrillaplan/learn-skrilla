@@ -19,8 +19,8 @@ The big number at the top. It's the money that has no job yet.
 - **Negative** — you assigned more than you have. Don't panic. Pull money back
   from a category that can spare it until the number reaches zero.
 
-Income lands here automatically: any transaction you categorize as **Income**
-feeds Ready to Assign.
+Income lands here automatically: any transaction you categorize as
+**＋ Income** feeds Ready to Assign.
 
 ### Show the math
 

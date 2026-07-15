@@ -37,8 +37,9 @@ Each row: date, name, amount, category, review mark.
 
 - **Red amounts** — money out. **Green** — money in.
 - **Category dropdown** — the one decision per row. Pick the envelope this
-  spending belongs to. Income goes to **＋ Income**, which feeds Ready to
-  Assign. Many transactions arrive pre-categorized; correct the wrong ones.
+  spending belongs to. Income goes to **＋ Income**, which feeds **Ready to
+  Assign** on the [Budget screen](/screens/budget/). Many transactions arrive
+  pre-categorized; correct the wrong ones.
 - **○ / ✓** — the review mark. Categorizing marks a row reviewed
   automatically. The **Unreviewed only** filter shows what still needs you.
   Five minutes with that filter, a few times a week, is the whole habit.

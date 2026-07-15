@@ -18,7 +18,8 @@ height.
 
 ## Step 1 — Get your transactions flowing
 
-Two doors. Pick either. Pick both.
+Two doors. The automatic one covers most people; the manual one works
+anywhere. Use either, or both.
 
 **Connect your banks** (the automatic way): **Banks → + Connect a bank**.
 Sign in through Plaid — your bank password never touches us. Connect
@@ -55,7 +56,7 @@ Done when: every category is a word you'd actually say out loud.
 ## Step 3 — Categorize what happened
 
 Go to **Transactions**. Much of it is already categorized — your job is to
-correct and confirm. Work the **Unreviewed only** filter: pick the envelope,
+correct and confirm. Turn on the **Unreviewed only** filter: pick the envelope,
 row goes ✓, next. Paychecks and deposits get **＋ Income** — that's the money
 you'll budget in a minute.
 
@@ -70,8 +71,9 @@ Done when: Unreviewed shows zero. Enjoy that for a second.
 Go to **Budget**. The number at the top — **Ready to Assign** — is real money
 waiting for orders.
 
-Click down the **Assigned** column: rent gets rent, groceries get groceries,
-the card payment gets its share. Yes to fun money — a plan you dread is a
+Go down the **Assigned** column: click a number, type an amount, press
+Enter. Rent gets rent, groceries get groceries, the card payment gets its
+share. Yes to fun money — a plan you dread is a
 plan you quit. Keep going until Ready to Assign reads **zero**.
 
 Zero isn't broke. Zero is *decided*.
@@ -108,8 +110,9 @@ Set a **goal** on one category this week (click its name — 🎯). An emergency
 fund of $500 is a fine first goal. Watch the bar fill. That bar is you,
 keeping a promise to yourself.
 
-Sharing the budget? **Account → Invite** brings your partner in — same
-budget, live, with an activity log so nobody wonders who moved what.
+Sharing the budget? An invite from the **Account** screen brings your
+partner in — same budget, live, with an activity log so nobody wonders who
+moved what. *→ [Share the budget with your household](/guides/household-sharing/)*
 
 That's the whole system. Dollars in, jobs assigned, envelopes honest.
 You're not "getting good with money." You're already doing it.

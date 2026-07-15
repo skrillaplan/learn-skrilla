@@ -12,13 +12,13 @@ screen, no app store, nothing to download.
 ## iPhone
 
 1. Open **skrillaplan.com** in Safari.
-2. Tap the **Share** button.
+2. Tap the **Share** button — the square with the arrow pointing up.
 3. Tap **Add to Home Screen**, then **Add**.
 
 ## Android
 
 1. Open **skrillaplan.com** in Chrome.
-2. Tap the browser menu.
+2. Tap the **⋮** menu in the corner.
 3. Tap **Add to Home screen** (or **Install app** — Chrome sometimes offers
    an install banner and that works too).
 

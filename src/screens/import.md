@@ -11,7 +11,7 @@ Drop a file on this screen — or click to choose one. Three kinds work:
 
 ## Coming from YNAB
 
-Export your data from YNAB (Account → Export Data) and drop the **.zip here —
+Export your data from YNAB (**Account → Export Data**) and drop the **.zip here —
 unopened**. SkrillaPlan unpacks it, reads the register, and reads your budget
 file too:
 
