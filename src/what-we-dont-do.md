@@ -47,7 +47,7 @@ paying, your budget turns read-only — you can still see and export
 everything, forever. Nobody is ever locked out of their own numbers.
 
 Privacy claims are cheap. Architecture is expensive. We built the
-expensive kind: the money app that knows the least about you is the one
-with nothing to leak, nothing to sell, and nothing to apologize for.
+expensive kind: an app that knows so little about you there's nothing to
+leak and nothing to sell.
 
 Your money is your business. We just keep the envelopes.

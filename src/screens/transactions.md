@@ -76,9 +76,9 @@ view — and the file re-imports cleanly on the Import screen.
 
 ## The Special tab
 
-Some money movements lie to budgets. Paying a credit card looks like $1,200
-of spending on one account and $1,200 of income on another. It's neither —
-it's your own money changing pockets.
+Paying a credit card looks like $1,200 of spending on one account and
+$1,200 of income on another. It's neither — it's your own money changing
+pockets.
 
 SkrillaPlan detects these pairs and moves them here, labeled:
 
@@ -86,8 +86,7 @@ SkrillaPlan detects these pairs and moves them here, labeled:
   your spending, income, and reports. Wrong? Click **Not a transfer** and it
   goes back to counting.
 - **❓ Possible transfer** — the amounts match but the signal is weak. These
-  still count until you decide: **Confirm** or **Dismiss**. We surface; we
-  don't silently hide your money.
+  still count until you decide: **Confirm** or **Dismiss**.
 
 Below the transfers, **Recurring bills & subscriptions** lists everything that
 charges you on a schedule, with its typical amount. Worth a slow read once a

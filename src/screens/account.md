@@ -85,7 +85,7 @@ One plan, everything in it: **$9.99/mo** or **$79/yr** — annual is four
 months free. No tiers, no feature ransom. The full picture lives at
 [skrillaplan.com/pricing](https://skrillaplan.com/pricing).
 
-The **Billing** card shows where your household stands, plainly:
+The **Billing** card shows where your household stands:
 
 - **Alpha** — free while SkrillaPlan is in alpha, with at least 30 days'
   notice before that ever changes. Early-subscribe buttons are there if you
@@ -103,7 +103,7 @@ Worth knowing:
 - Checkout and card management happen on **Stripe's** hosted pages — your
   card number never touches SkrillaPlan. Promo codes work at checkout.
 - **Manage billing** opens Stripe's portal: change the card, switch plans,
-  cancel. Cancelling is as easy as subscribing was. That's deliberate.
+  cancel. Cancelling is as easy as subscribing was.
 - If a subscription lapses, the budget turns **read-only**. You can still
   see and export every byte of your data, forever. Nobody is ever locked
   out of their own numbers.

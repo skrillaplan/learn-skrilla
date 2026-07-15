@@ -90,24 +90,23 @@ quietly forgive itself.
 
 ## The average, and the ±
 
-Under each Assigned amount, on a wider screen, you'll see **avg $X** — what
-you actually spend in that envelope, typically, over the last few months —
-with a **±** next to it:
+On a wider screen, **avg $X** sits under each Assigned amount — what you
+typically spend in that envelope over the last few months — with a **±**
+next to it:
 
 - **Green +** — what you've assigned covers what you usually spend. Room to
   breathe.
 - **Red −** — you typically spend more here than you've planned. Assign more
   or spend less; both are honest answers.
 
-The average is of spending, not of what you assigned — it's the envelope
-telling you its real size. Red isn't a scold. It's the number you needed to
-know, said out loud. Let the averages teach you what your life actually
-costs, then set amounts that match and let the months run themselves.
+The average is of spending, not of what you assigned — the envelope telling
+you its real size. Red isn't a scold; it's the number you needed. Let the
+averages teach you what your life costs, then set amounts that match.
 
 ## One-tap assigning
 
-Under each Assigned amount, on a wider screen, sit three small buttons —
-**default**, **avg**, and **⚙**. The budget learns your real numbers, then
+Next to the average sit three small buttons — **default**, **avg**, and
+**⚙**. The budget learns your real numbers, then
 hands them back as one-tap suggestions. You stay the decider; it does the
 arithmetic.
 

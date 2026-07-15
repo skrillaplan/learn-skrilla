@@ -7,8 +7,7 @@ description: "A small shop, funded by the people who use it — not by ads, not 
 # Who's behind SkrillaPlan
 
 SkrillaPlan is made by **Skrilla Plan, LLC** — a small shop, not a
-venture-backed data machine. That difference shows up in the product, so
-it's worth saying plainly.
+venture-backed data machine. The difference shows up in the product.
 
 ## Funded by you, on purpose
 

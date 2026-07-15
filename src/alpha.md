@@ -6,7 +6,7 @@ description: "What the SkrillaPlan alpha means, how to start, what we ask of you
 
 # Welcome to the alpha
 
-You're in. Thank you — genuinely. A budget app is only as good as the
+You're in. Thank you. A budget app is only as good as the
 people willing to run their real money through it early, and you just
 raised your hand.
 
@@ -46,8 +46,7 @@ Three things, none of them heavy:
 Complete the feedback program and your household is **free for life** —
 the 🏆 founding-household badge on your [Account page](/screens/account/),
 and it stays given. Everyone else pays $9.99 a month someday. You never
-will. That's the trade, stated plainly: your honest attention now, our
-gratitude forever.
+will. That's the trade: your honest attention now, our gratitude forever.
 
 During the alpha itself, everything is free for everyone, and you'll get
 at least 30 days' notice before that ever changes.

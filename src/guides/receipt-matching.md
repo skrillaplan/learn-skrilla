@@ -20,7 +20,7 @@ see.
 2. Click **Connect my Gmail** and approve. Each member connects their own
    mailbox; connect the one where your Amazon confirmations actually land.
 
-Plain talk about privacy: we search for **Amazon order confirmations only** —
+About privacy: we search for **Amazon order confirmations only** —
 one specific sender, order subjects — and read nothing else. No promotions, no
 personal mail. Disconnect any time and the access is revoked with it.
 
@@ -52,6 +52,5 @@ The trick: a free Gmail account that does nothing but hold your receipts.
      sender, which the matching needs. Manually forwarded mail won't match.
 3. Connect that Gmail on the Account page.
 
-You end up with something quietly great: a dedicated, searchable filing
-cabinet of every order you place — and a budget that speaks in things instead
-of merchants.
+You end up with a dedicated, searchable filing cabinet of every order you
+place — and a budget that speaks in things instead of merchants.

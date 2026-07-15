@@ -17,8 +17,7 @@ file too:
 
 - **Transactions** import with dates, payees, amounts, and cleared status.
 - **Categories you don't have yet are created for you** — a toggle shows
-  exactly which ones before you commit. Your category names carry over; your
-  history stays speakable.
+  exactly which ones before you commit. Your category names carry over.
 - **Budget assignments** import month by month, so past months in SkrillaPlan
   look the way they looked in YNAB.
 

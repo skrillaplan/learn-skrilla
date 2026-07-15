@@ -51,13 +51,12 @@ The app handles the numbers. Two habits handle the humans:
 - **The log settles it.** Every assignment, move, and rename lands in the
   [Activity feed](/screens/activity/) with a name and a time. Nobody edits
   it, nobody deletes it — not even the admin. "Who moved the grocery money?"
-  stops being a fight and becomes a fact. Ask about the reason, not the deed.
+  stops being a fight and becomes a fact.
 
 ## If someone leaves
 
 **Remove** on the Account screen. A removed member keeps nothing; next
 sign-in they start a budget of their own. Clean exits, no residue.
 
-That's the whole setup. Same numbers, same plan, no mystery. Most money
-fights aren't about money — they're about surprise. You just removed the
-surprise.
+That's the whole setup. Most money fights aren't about money — they're
+about surprise. You just removed the surprise.

@@ -22,7 +22,7 @@ transaction by transaction. Counting the payment too would count it twice.
 
 It detects the pairs and moves them to the **Special** tab on the
 [Transactions screen](/screens/transactions/), out of your spending, income,
-and reports. Labeled plainly:
+and reports. Labeled:
 
 - **💳 Credit-card payment** — checking out, card in.
 - **🔁 Transfer** — savings to checking, checking to savings, any pocket to
@@ -62,4 +62,4 @@ The plan is yours. The bookkeeping is handled.
 
 Below the transfers sits **Recurring bills & subscriptions** — everything
 that charges you on a schedule, with its typical amount. Worth a slow read
-once a month. Subscriptions multiply in the dark.
+once a month.

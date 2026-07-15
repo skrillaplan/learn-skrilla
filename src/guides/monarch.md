@@ -51,7 +51,7 @@ sparklines, spending-changes ("what's different this month"), and the
 recurring-subscriptions list with price-increase flags. The difference:
 every chart is measured against a plan you set, not just a past you had.
 
-## The privacy difference, stated factually
+## The privacy difference
 
 Monarch's own privacy policy discloses session-replay tooling and
 advertising partners. SkrillaPlan runs zero trackers — no analytics, no

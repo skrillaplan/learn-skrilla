@@ -51,8 +51,7 @@ When there's nothing unassigned, you're done. Zero isn't broke. Zero is
 4. **You adjust.** Reality wins somewhere every month. The car needs tires;
    dining out ran hot. Fine: move money from an envelope that can spare it.
    Moving money isn't failing the plan. Moving money **is** the plan —
-   the same decision your grandmother made with paper envelopes, on purpose,
-   with her own hands.
+   the same move your grandmother made with paper envelopes.
 
 Then a new month starts and unspent money rolls forward. An envelope that
 keeps rolling is called savings. That's all savings is: an envelope you

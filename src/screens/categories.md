@@ -57,8 +57,8 @@ Everything on a row is editable in place:
   your reports; it just stops appearing in the grid. Archived categories live
   at the bottom, one click from **Restore**.
 
-Archive is almost always the right call. It preserves the past. Nothing is
-deleted; nothing is lost.
+Archive is almost always the right call. Nothing is deleted; nothing is
+lost.
 
 ## Groups
 

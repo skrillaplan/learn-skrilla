@@ -38,8 +38,8 @@ The Skrilla icon lands on your home screen. Done.
 
 ## One honest limit
 
-It needs a connection. Offline, the app says so plainly instead of showing
-you yesterday's numbers dressed up as today's. We won't guess at your
+It needs a connection. Offline, the app says so instead of showing you
+yesterday's numbers dressed up as today's. We won't guess at your
 money.
 
 Native apps for the app stores are coming. Until they do, this is the

@@ -17,9 +17,9 @@ isn't. Sitting inside that number is rent that hasn't left yet, the card
 bill that hasn't landed, the car insurance that hits next week. Money that
 already has a job, wearing the costume of money that's free.
 
-A balance answers "what's in the account right now?" — which is a real
-fact, and almost never the question you actually have. The question you
-have, standing in the store, is quieter: *can I spend this?*
+A balance answers "what's in the account right now?" — a real fact, and
+almost never your question. Standing in the store, your question is
+quieter: *can I spend this?*
 
 ## Your bank shows what you have. Your budget shows what it's for.
 
@@ -34,15 +34,14 @@ truth broken into the only pieces that help: what each dollar is *for*.
 
 ## It's a window into your habits, not a mirror of your bank
 
-What we're really giving you is a realistic view of your current spending
-against your current income — a plan you can steer, not a photograph you
-can only admire. That's why the numbers we *do* show, we
+What you get instead is your spending against your income — a plan you
+can steer, not a photograph to admire. That's why the numbers we *do* show, we
 [show the work behind](/show-the-math/). A balance you can't act on isn't
 information; it's a mood.
 
 We're not hiding your balance from you — your bank's app is one tap away,
 and it's good at being a bank. We're just not going to repeat its
-pleasant-lying number and call it a budget.
+pleasant lie and call it a budget.
 
 ---
 

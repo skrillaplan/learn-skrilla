@@ -29,8 +29,7 @@ who changed what. No mystery, no fights about mystery.
 One plan, everything in it: **$9.99/mo** or **$79/yr**. No tiers, no
 feature ransom. Free during alpha. The details are at
 [skrillaplan.com/pricing](https://skrillaplan.com/pricing) — and whatever
-happens with your subscription, you can always see and export every byte of
-your data. Nobody is ever locked out of their own numbers.
+happens with your subscription, your data stays yours to see and export.
 
 ## Privacy is the product
 
@@ -57,4 +56,4 @@ read. That's on purpose. The even shorter version lives here:
 - **Coming from another app?** We'll take your data and your muscle memory:
   [from YNAB](/guides/ynab-import/) or [from Monarch](/guides/monarch/).
 
-That's the whole map. Dollars in, jobs assigned, envelopes honest.
+That's the whole map.

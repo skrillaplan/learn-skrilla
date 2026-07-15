@@ -59,8 +59,7 @@ this?" Tags answer "what was this really?" — all your EV charging, whichever
 trip or budget line it lived under.
 
 Each tag shows this month, the six-month total, and how many transactions wear
-it. One transaction can carry several tags, so the numbers overlap on purpose:
-this is a lens, not a ledger.
+it. One transaction can carry several tags, so the numbers overlap on purpose.
 
 ## 🔁 Subscriptions & recurring
 

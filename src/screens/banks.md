@@ -13,7 +13,7 @@ Press **+ Connect a bank**. A secure window from **Plaid** opens — the same
 service most finance apps use. Find your bank, sign in with your bank
 credentials, choose accounts, done.
 
-Two things worth knowing, plainly:
+Two things worth knowing:
 
 - **Your bank password never touches SkrillaPlan.** The whole sign-in happens
   inside Plaid. We receive transactions, never credentials.

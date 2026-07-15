@@ -5,8 +5,8 @@ order: 0
 
 # Getting started
 
-You can set this up in an evening. Most people spend years avoiding their
-money in less time than that. Let's go.
+You can set this up in an evening — less time than most of us have spent
+avoiding it. Let's go.
 
 The system is old and it works: **give every dollar a job.** Money comes in,
 you assign it to envelopes, you spend from the envelopes. The app keeps the
@@ -71,8 +71,8 @@ Go to **Budget**. The number at the top — **Ready to Assign** — is real mone
 waiting for orders.
 
 Click down the **Assigned** column: rent gets rent, groceries get groceries,
-the card payment gets its share. Yes to fun money — a budget with no joy in
-it is a diet, and diets end. Keep going until Ready to Assign reads **zero**.
+the card payment gets its share. Yes to fun money — a plan you dread is a
+plan you quit. Keep going until Ready to Assign reads **zero**.
 
 Zero isn't broke. Zero is *decided*.
 
@@ -86,9 +86,9 @@ Done when: Ready to Assign = $0.00 and nothing important reads red.
 
 ## Put it on your phone
 
-The budget you check is the budget that works, and you check things on your
-phone. Two taps put SkrillaPlan on your home screen — real icon, full
-screen, no app store. *→ how: [Put SkrillaPlan on your phone](/guides/install-on-your-phone/)*
+You check things on your phone, so the budget should live there too. Two
+taps put SkrillaPlan on your home screen — real icon, full screen, no app
+store. *→ how: [Put SkrillaPlan on your phone](/guides/install-on-your-phone/)*
 
 ## Living it (the part that matters)
 
@@ -97,8 +97,7 @@ Setup was the easy part. The habit is three small moves:
 - **A few times a week (5 minutes):** Transactions → **Unreviewed only** →
   categorize → done. Glance at the sync light: green fresh, red stale.
 - **When a category runs dry:** don't quit — **move money**. Click the
-  Available number, take from a category that can spare it. Moving money
-  isn't failing the plan; moving money *is* the plan.
+  Available number, take from a category that can spare it.
 - **Payday:** new money lands in Ready to Assign. Assign it to zero. Each
   paycheck gets easier than the last.
 - **Once a month (15 minutes):** open **Reports**. Read *Spending changes* —
