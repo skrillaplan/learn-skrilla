@@ -110,9 +110,41 @@ Hunt for:
 The constraint: **add the fewest words that remove the confusion.** No new
 paragraphs of explanation; a clause, an icon description, a link.
 
+Some confusion can't be fixed with a clause because the page it needs
+doesn't exist — the reader has a real question and no article owns the
+answer. Those are **article gaps**, not inline revisions. Record them in a
+separate section of the revision list: what the first-timer was trying to
+do, where they got stuck, and what an article would cover.
+
 **Produce a numbered revision list** (`pass-b-firsttimer-revisions.md` in
-the scratchpad, same format, including a "checked and already clear" list),
-**implement it**, build, and commit Pass B on its own.
+the scratchpad, same format, including a "checked and already clear" list
+and the article-gaps section), **implement the inline revisions**, build,
+and commit Pass B on its own.
+
+### File the article gaps as issues
+
+For each gap, open a GitHub issue labeled **`content-idea`** — one issue
+per article, filed during the run, not after:
+
+1. **Dedupe first.** Search open and closed issues
+   (`gh issue list --label content-idea --state all --search "<topic>"`)
+   and skim article titles in `src/` — the answer may exist under a name
+   the reader wouldn't guess (that's a nav or cross-link fix, not a new
+   article).
+2. **File it:**
+   ```
+   gh issue create --label content-idea \
+     --title "Article: <working title>" \
+     --body  "<the gap, from the reader's side>"
+   ```
+   The body carries: what the first-timer was doing when the question
+   arose, the exact question in their words, which existing pages came
+   close and why they weren't enough, and a sketch of what the article
+   covers. Suggest where it lives in the nav. Facts only — the words get
+   written when the issue is worked.
+3. **Don't write the article now.** Content-idea issues are worked when
+   the brief queue is clear, like any other. A /voice run levels the
+   corpus; it doesn't grow it.
 
 ---
 
@@ -137,9 +169,9 @@ the scratchpad, same format, including a "checked and already clear" list),
 Close with a summary **written in the site's own voice** — short sentences,
 plain words, warm, second person where it fits. It's an overview for
 Bobby's review, not a changelog: what each reader found, the shape of the
-cuts, the word count before and after, and where the revision lists live.
-One page, no headers deeper than bold. End on the strongest line the edit
-produced.
+cuts, the word count before and after, where the revision lists live, and
+the content-idea issues filed (number and title each). One page, no headers
+deeper than bold. End on the strongest line the edit produced.
 
 ---
 
@@ -159,6 +191,9 @@ produced.
 - **Two commits minimum** — Pass A and Pass B stay separate, like
   structural and behavioral changes in a tidy-first session. Each commit
   message names its pass.
+- **Gaps become issues, not articles.** A /voice run never writes a new
+  page. Every missing-article finding is filed as a deduped `content-idea`
+  issue and left for its own session.
 - **Restraint is an edit.** A page already at pitch gets listed as
   untouched, not re-seasoned. If a run finds fewer than five real revisions
   total, say the corpus is holding and stop — don't manufacture edits to
