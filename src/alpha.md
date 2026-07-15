@@ -21,6 +21,7 @@ you. When it does, that's us, not you.
 ## Start here (twenty minutes, or an evening if you're thorough)
 
 1. **Sign in** with the email your invite went to — the match is exact.
+   Google button or [email and password](/guides/signing-in/), either works.
 2. **Connect a bank** — or [import your history](/screens/import/) if you'd
    rather start manual. Your budget starts counting at the month you signed
    up, so old history won't scare the numbers.

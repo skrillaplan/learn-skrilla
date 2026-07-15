@@ -30,8 +30,9 @@ any time from the [Account screen](/screens/account/).
 
 - **Invite by email** — enter their address and a role. Nothing is emailed
   yet: use **Copy link** on the pending invite and text it to them yourself.
-  When they sign in with that Google account, they land in your budget.
-  Type the email carefully — the match is exact.
+  When they sign in with that email — Google button or password, either
+  way — they land in your budget. Type the email carefully — the match is
+  exact.
 - **Invite link** — generate a link, send it however you like. Whoever
   opens it and signs in, joins.
 

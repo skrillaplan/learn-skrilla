@@ -26,12 +26,13 @@ You take it with you. **Transactions → ⬇ Export CSV** exports everything,
 any time, in a file any spreadsheet opens. Leaving is as easy as staying —
 that's deliberate.
 
-## Why Google sign-in only?
+## Do I need a Google account?
 
-Because we never want to hold a password. Google handles sign-in; we store
-one less secret, and you remember one less password. It also makes
-household invites simple — sign in with the invited email and you land in
-the right budget.
+Not anymore. Use the Google button, or sign in with email and password —
+create the account, click the verification link we email you, done. The
+link proves you own the address your invite went to. One account per
+email: if you started with the Google button, that *is* your account.
+*→ [Signing in and passwords](/guides/signing-in/)*
 
 ## Why is my Ready to Assign weird?
 

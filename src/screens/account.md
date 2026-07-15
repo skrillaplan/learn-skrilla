@@ -36,7 +36,8 @@ member keeps nothing; next sign-in they start a budget of their own.
 Two ways, both from here:
 
 - **Invite by email** — enter their address and a role. When they sign in
-  with that Google account, they land in your budget automatically.
+  with that email — Google button or password, either way — they land in
+  your budget automatically.
 - **Invite link** — generate a link and send it however you like. Whoever
   opens it and signs in, joins.
 
