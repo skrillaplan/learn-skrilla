@@ -85,6 +85,11 @@ you set carries into next month on its own, and the month after. Set the
 mortgage once and it's set until you change it. You're not signing up for
 this chore twelve times a year — you're writing a plan that repeats.
 
+Connected banks? One more minute: tap the big **Ready to Assign** number.
+The math panel ends with a bank check — what your bank says next to what
+your budget says. **Record the difference as your starting balance** and
+the two agree from day one. *→ [the bank check](/screens/budget/)*
+
 Done when: Ready to Assign = $0.00 and nothing important reads red.
 *→ details: [Budget](/screens/budget/)*
 

@@ -47,6 +47,28 @@ New households start at the month they signed up. Households from before
 this feature count all history until they pick a month — if your number
 looks crazy, this picker is the fix.
 
+### The bank check
+
+For the current month, with banks connected, the panel ends with a
+comparison: what your bank says you have — cash minus what you owe on
+cards — next to what your budget says — Ready to Assign plus every
+envelope — and the difference between them.
+
+Cards are subtracted from the bank side on purpose: the budget already
+counted every card purchase as spent, envelope by envelope. Loans and
+investment accounts sit out entirely — not budget money.
+
+**Record … as my starting balance** books the difference as one honest
+transaction — "Starting balance," dated the first of your start month,
+visible in Transactions like anything else. Click it again later and it
+re-books that same transaction; it never stacks a second one.
+
+After that, the two numbers should agree, and the gap becomes a signal.
+Pending charges make it wobble a few dollars for a day or two — the
+bank's timing, not an error. A gap that *grows* usually means an account
+you never connected. No per-account registers, no line-by-line
+reconciling: one comparison, one honest adjustment.
+
 ## The month
 
 Arrows at the top step one month at a time. To go further, click the month
