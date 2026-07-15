@@ -24,7 +24,9 @@ anywhere. Use either, or both.
 **Connect your banks** (the automatic way): **Banks → + Connect a bank**.
 Sign in through Plaid — your bank password never touches us. Connect
 everything money moves through: checking, savings, credit cards. From now on,
-transactions arrive on their own, every morning.
+transactions arrive on their own, every morning — and the Banks page shows
+each account's balance, with a **Cash on hand** total at the top. What the
+bank says, as of last sync.
 
 A new connection also back-fills months of history. If **Ready to Assign**
 suddenly reads scary-negative, nothing is wrong — that's old history, not

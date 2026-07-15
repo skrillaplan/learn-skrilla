@@ -1,14 +1,15 @@
 ---
-title: "Why we don't show bank balances"
+title: "Why your budget isn't a bank balance"
 permalink: /no-bank-balances/
-description: "A design conviction, not a missing feature: your bank shows what you have; your budget shows what it's for."
+description: "Your balances live on the Banks page, honestly labeled. Your budget stays envelopes — what you have is one question; what it's for is the better one."
 ---
 
-# Why we don't show bank balances
+# Why your budget isn't a bank balance
 
-New here from a bank app, you'll notice something missing: we don't show
-your account balance. That's on purpose. It's the most-asked question we
-get, so here's the honest answer.
+Your account balances live on the [Banks page](/screens/banks/), added up
+and honestly labeled. But the Budget screen won't put a balance at the top,
+and that's on purpose. It's the most-asked question we get, so here's the
+honest answer.
 
 ## A balance is a snapshot that lies pleasantly
 
@@ -39,9 +40,11 @@ can steer, not a photograph to admire. That's why the numbers we *do* show, we
 [show the work behind](/show-the-math/). A balance you can't act on isn't
 information; it's a mood.
 
-We're not hiding your balance from you — your bank's app is one tap away,
-and it's good at being a bank. We're just not going to repeat its
-pleasant lie and call it a budget.
+We're not hiding your balance — the [Banks page](/screens/banks/) shows
+every account, what's on hand and what's owed, as of last sync. We're just
+not going to put that pleasant lie at the top of your budget and call it a
+plan. And when you want the two worlds to agree, the
+[bank check](/screens/budget/) compares them in one honest line.
 
 ---
 

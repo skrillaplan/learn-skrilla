@@ -28,10 +28,30 @@ instead of counting as spending.)
 A household can connect up to **five institutions** — generous for a
 household, since one connection brings all of that bank's accounts along.
 
-## The list
+## Accounts and balances
 
-Each connected bank shows its last sync time. Everything syncs automatically
-each morning; **↻ Sync** on the Transactions screen fetches on demand.
+**Cash on hand** sits at the top: your checking and savings balances,
+added up. Credit cards and loans stay out of that number on purpose — it's
+money you have, not net worth.
+
+Under it, each connected bank lists every account it shared: name, last
+four digits, and a balance. Checking and savings show what's available;
+credit cards show what's **owed**. When a bank reports an available
+balance (after holds), you see that; when it doesn't, you see the current
+balance, labeled **balance**.
+
+Balances refresh at every sync — on their own each morning, or when you
+press **↻ Sync** on the Transactions screen. The page says **as of last
+sync** because that's the truth. Each bank shows its last sync time too.
+
+Two things to know:
+
+- **Balances are display-only.** The envelopes run on transactions; a
+  balance never changes your budget math. To make the two worlds agree,
+  use the bank check in the Budget screen's math panel.
+  *→ [the bank check](/screens/budget/)*
+- After connecting, give the list a skim. It shows every account the bank
+  shared — including the ones you forgot you had.
 
 ## Disconnecting
 
