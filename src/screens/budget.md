@@ -49,8 +49,10 @@ looks crazy, this picker is the fix.
 
 ## The month
 
-Arrows at the top move between months. Each month is its own plan.
-**back to today** returns you to the current month.
+Arrows at the top step one month at a time. To go further, click the month
+name itself — note the small **▾** — and a calendar opens: pick the year,
+tap the month, you're there. Last December is two clicks away, not twelve
+arrows. **back to today** snaps you home. Each month is its own plan.
 
 Money you don't spend rolls forward. A category with $40 left in June starts
 July with $40. Saving is just a category that rolls for a long time.

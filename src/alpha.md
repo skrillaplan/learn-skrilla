@@ -37,7 +37,8 @@ Three things, none of them heavy:
 - **Live in it, weekly-ish.** Not homework — just budget like you normally
   would. Real use finds what demos never do.
 - **Press 🐛 when anything confuses you.** Confusing counts as broken here.
-  You don't need to be right, polite, or brief.
+  You don't need to be right, polite, or brief. It works: an import that
+  failed silently got one 🐛 report, and days later it explains itself.
 - **Answer the short inquiries** we send every week or two. A few
   questions, a few minutes.
 

@@ -48,6 +48,13 @@ Amazon charges when things *ship* — so matches land a few days late, and
 split shipments stay plain. Best effort, not a vow.
 *→ [Receipt matching](/guides/receipt-matching/)*
 
+## My CSV import found nothing
+
+The import now says why — it's almost always the date column — and lists
+the formats it reads. European-style `14/07/2026` dates: flip the
+**day/month/year** toggle and try again. Rows it can't read show as a
+skipped count, never a silent shrug. *→ [Import](/screens/import/)*
+
 ## I imported a file twice
 
 Nothing doubled. Every row gets a fingerprint; duplicates are skipped and

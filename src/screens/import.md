@@ -31,6 +31,12 @@ step appears: point at the date column, the amount column (or separate
 outflow/inflow columns), the description. Preview shows exactly what will
 import. Nothing lands until you commit.
 
+If some rows can't be read, the import says how many it skipped. If **no**
+rows can be read, it tells you why in plain words — it's almost always the
+date column — and shows formats that work: `2026-07-14`, `7/14/2026`,
+`Jul 14, 2026`, `14-Jul-2026`. European-style `14/07/2026` dates: flip the
+**day/month/year** toggle and import again.
+
 ## A SkrillaPlan export
 
 The CSV from **Transactions → ⬇ Export CSV** re-imports cleanly. Round trips
