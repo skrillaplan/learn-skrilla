@@ -32,7 +32,8 @@ household, since one connection brings all of that bank's accounts along.
 
 **Cash on hand** sits at the top: your checking and savings balances,
 added up. Credit cards and loans stay out of that number on purpose — it's
-money you have, not net worth.
+money you have, not net worth. (Net worth has its own line — the [🏦 Net
+worth report](/screens/reports/).)
 
 Under it, each connected bank lists every account it shared: name, last
 four digits, and a balance. Checking and savings show what's available;

@@ -8,7 +8,7 @@ order: 3
 Numbers don't judge. They just tell you what happened. Come here once a week
 and let them talk.
 
-Use the arrows to pick a month, and the dropdown to pick a report. Five views:
+Use the arrows to pick a month, and the dropdown to pick a report.
 
 ## 📊 Monthly overview
 
@@ -68,3 +68,28 @@ surprises everyone once a year), each charge normalized to a monthly
 equivalent, next due dates, and ▲ flags on recent price increases.
 
 Cancel one thing you forgot you had. That's the report paying rent.
+
+## 🏦 Net worth
+
+The line that tells the truth slowly. Everything you have minus everything
+you owe — cash and investments, minus cards and loans — written down each
+morning by the same routine that syncs your banks, and drawn as a line.
+One point per day. It doesn't move live, and it shouldn't: net worth isn't
+a thing to watch by the hour.
+
+Stats up top: net worth today, cash, owed on cards, and the 30-day change.
+The change shows **—** until there are 30 days to compare. Honest, not
+broken.
+
+Two things worth knowing:
+
+- History starts the day the report arrived. No fake backfill — the empty
+  state says check back in a few days, and means it.
+- Loans and investments appear only if your bank shares them through the
+  connection. A cash-and-cards household sees cash minus cards, and that's
+  still the truth.
+
+Budgeting is the activity; this line is the outcome. It also catches the
+quiet failure: checking looks fine while a card balance creeps up. A
+record, not a forecast — where you've been, drawn plainly, so you can see
+which way it's drifting.
