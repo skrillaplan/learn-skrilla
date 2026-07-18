@@ -35,15 +35,12 @@ member keeps nothing; next sign-in they start a budget of their own.
 
 Two ways, both from here:
 
-- **Invite by email** — enter their address and a role. When they sign in
-  with that email — Google button or password, either way — they land in
-  your budget automatically.
+- **Invite by email** — enter their address and a role. Nothing is emailed
+  yet: use **Copy link** on the pending invite and send it yourself. When
+  they sign in with that email — Google button or password, either way —
+  they land in your budget. Type the email carefully — the match is exact.
 - **Invite link** — generate a link and send it however you like. Whoever
   opens it and signs in, joins.
-
-Heads up: **invites aren't emailed yet.** After inviting, use **Copy link**
-on the pending invite and send it yourself. Type the email carefully — the
-match is exact.
 
 Pending invites can be revoked any time before they're used.
 

@@ -104,7 +104,8 @@ store. *→ how: [Put SkrillaPlan on your phone](/guides/install-on-your-phone/)
 Setup was the easy part. The habit is three small moves:
 
 - **A few times a week (5 minutes):** Transactions → **Unreviewed only** →
-  categorize → done. Glance at the sync light: green fresh, red stale.
+  categorize → done. Glance at the timestamp by **↻ Sync**: green fresh,
+  red stale.
 - **When a category runs dry:** don't quit — **move money**. Click the
   Available number, take from a category that can spare it.
 - **Payday:** new money lands in Ready to Assign. Assign it to zero. Each

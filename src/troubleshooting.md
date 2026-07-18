@@ -50,7 +50,7 @@ split shipments stay plain. Best effort, not a vow.
 
 ## My CSV import found nothing
 
-The import now says why — it's almost always the date column — and lists
+The import says why — it's almost always the date column — and lists
 the formats it reads. European-style `14/07/2026` dates: flip the
 **day/month/year** toggle and try again. Rows it can't read show as a
 skipped count. *→ [Import](/screens/import/)*
