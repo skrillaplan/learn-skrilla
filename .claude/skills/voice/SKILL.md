@@ -81,6 +81,12 @@ don't. Vary the thought or cut it.
 - "Nobody is ever locked out of their own numbers." → what-we-dont-do +
   account/Billing (policy promise; restated where billing anxiety lives)
 - "Best effort, not a vow." → receipt-matching + troubleshooting (feature tagline)
+- "The line that tells the truth slowly." → reports (Net worth)
+- "Honest, not broken." → reports (Net worth)
+- "Don't ask what you have. Ask what it's for." → no-bank-balances (close)
+- "No uppercase-symbol-number theater." → signing-in
+- "Zero is a decision too." → budget (inheritance)
+- "The privacy policy takes five minutes to read, on purpose." → what-we-dont-do
 
 ---
 

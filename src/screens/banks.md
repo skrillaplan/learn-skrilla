@@ -45,8 +45,6 @@ Balances refresh at every sync — on their own each morning, or when you
 press **↻ Sync** on the Transactions screen. The page says **as of last
 sync** because that's the truth. Each bank shows its last sync time too.
 
-Two things to know:
-
 - **Balances are display-only.** The envelopes run on transactions; a
   balance never changes your budget math. To make the two worlds agree,
   use the bank check in the Budget screen's math panel.

@@ -12,7 +12,7 @@ Short answers, no hedging. Longer stories are linked where they exist.
 
 Yes, for everyone, during the alpha — with at least 30 days' notice before
 that changes. Complete the feedback program and your household is free for
-life. [The welcome page](/alpha/) states the trade plainly.
+life. [The welcome page](/alpha/) spells out the trade.
 
 ## Is my bank login safe?
 

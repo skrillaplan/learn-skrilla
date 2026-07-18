@@ -38,8 +38,8 @@ analytics scripts watching you type. Bank sign-in happens inside Plaid; your
 password never touches us. Even this help site loads nothing from anyone
 else — check the network tab, we'll wait.
 
-The [privacy policy](https://skrillaplan.com/privacy) takes five minutes to
-read. That's on purpose. The even shorter version lives here:
+The [privacy policy](https://skrillaplan.com/privacy) is a five-minute
+read, and the even shorter version lives here:
 [What we don't do](/what-we-dont-do/).
 
 ## Find your way

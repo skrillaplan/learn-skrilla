@@ -41,10 +41,10 @@ can steer, not a photograph to admire. That's why the numbers we *do* show, we
 information; it's a mood.
 
 We're not hiding your balance — the [Banks page](/screens/banks/) shows
-every account, what's on hand and what's owed, as of last sync. We're just
-not going to put that pleasant lie at the top of your budget and call it a
-plan. And when you want the two worlds to agree, the
-[bank check](/screens/budget/) compares them in one honest line.
+every account, what's on hand and what's owed, as of last sync. We won't
+put that pleasant lie at the top of your budget and call it a plan. And
+when you want the two worlds to agree, the
+[bank check](/screens/budget/) compares them in one line.
 
 ---
 

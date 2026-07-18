@@ -35,7 +35,7 @@ the alpha rides in your pocket.
 
 Three things, none of them heavy:
 
-- **Live in it, weekly-ish.** Not homework — just budget like you normally
+- **Live in it, weekly-ish.** Not homework — budget like you normally
   would. Real use finds what demos never do.
 - **Press 🐛 when anything confuses you.** Confusing counts as broken here.
   You don't need to be right, polite, or brief. It works: an import that
@@ -57,7 +57,6 @@ at least 30 days' notice before that ever changes.
 
 Quit gracefully, any time: **Transactions → ⬇ Export CSV** hands you
 everything, in a file any spreadsheet opens. No dark patterns on the way
-out, no hard feelings on our side. It's your money and your data — we just
-hoped to keep the envelopes for a while.
+out, no hard feelings on our side.
 
 Questions? The [Alpha FAQ](/alpha/faq/) has the short answers.

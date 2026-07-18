@@ -39,7 +39,7 @@ debt in your plan.
 
 This matters most once: you connect a bank, it back-fills months of
 history, and suddenly the banner says you're $23,000 in the red. The math
-was right — the data was just incomplete. All that old spending was never
+was right — the data was incomplete. All that old spending was never
 spending against your plan; it's history you hadn't budgeted. Set the start
 month and the number tells the truth about your plan, not your past.
 
@@ -67,7 +67,7 @@ After that, the two numbers should agree, and the gap becomes a signal.
 Pending charges make it wobble a few dollars for a day or two — the
 bank's timing, not an error. A gap that *grows* usually means an account
 you never connected. No per-account registers, no line-by-line
-reconciling: one comparison, one honest adjustment.
+reconciling: one comparison, one adjustment.
 
 ## The month
 
