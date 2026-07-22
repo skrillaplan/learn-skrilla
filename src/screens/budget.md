@@ -190,6 +190,10 @@ A progress bar appears under the category. Green fill is progress. **Funded ✓*
 means done. **Overdue** means the date passed — move the date or move money,
 either is allowed.
 
+These are month-sized goals, one envelope each. The big things — a house, a
+car, years of saving across several envelopes — live on their own page. Set
+the big one there, fund it here. *→ [Goals](/screens/goals/)*
+
 ## Uncategorized spending
 
 If money left your accounts without a category, a notice appears above the

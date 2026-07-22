@@ -1,6 +1,6 @@
 ---
 title: The Achievements screen
-order: 9
+order: 11
 ---
 
 # The Achievements screen
@@ -20,6 +20,10 @@ your bank and your budget agreeing.
 **You** is yours. Categorizing your first transaction, then fifty of them.
 Splitting a purchase. Adding a tag. Leaving a note. Renaming something.
 Marking a transfer.
+
+Long-term goals bring two more to the household side: **Dream Big** for
+starting one, **The Long Haul** for finishing one. The second takes years.
+That's the joke, and it isn't a joke. *→ [Goals](/screens/goals/)*
 
 Two people in one budget see the same household half and different personal
 halves. The personal ones are read from the activity log, so they count

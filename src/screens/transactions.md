@@ -45,6 +45,10 @@ Each row: date, name, amount, category, review mark.
   Five minutes with that filter, a few times a week, is the whole habit.
 - **pending** — the bank hasn't settled it. Pending rows don't count in
   totals yet.
+- **Kid button** — appears only if you've switched on **Let kids see some
+  household costs**. Marking a row shows that one purchase on your child's
+  screen: what it was, what it cost, nothing else.
+  *→ [The Kids screen](/screens/kids/)*
 - **🧾** — this purchase matched an email receipt, so instead of "Amazon" you
   see what you actually bought. Hover for the original merchant and order
   number. (Set up in **Account → Integrations**.)

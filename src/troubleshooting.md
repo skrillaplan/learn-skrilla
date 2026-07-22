@@ -32,8 +32,10 @@ means synced within the hour, gray means earlier today, red and bold means
 not today — press **↻ Sync**. Banks also sync on their own every morning.
 
 If a bank stays red after a manual sync, check its row on the
-[Banks screen](/screens/banks/) for its last sync time. Disconnecting and
-reconnecting is safe — history already synced always stays.
+[Banks screen](/screens/banks/). A bank whose login has expired says so
+there, with a **Reconnect** button that reopens its own sign-in. Banks expire
+logins on their own schedule; it's a task, not a fault. History already
+synced always stays.
 
 ## Receipt matching keeps asking to reconnect
 

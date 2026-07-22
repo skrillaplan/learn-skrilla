@@ -21,6 +21,10 @@ height.
 Two doors. The automatic one covers most people; the manual one works
 anywhere. Use either, or both.
 
+Handing a budgeting app your bank login deserves a straight answer before you
+do it. Here's ours, including the part where you don't have to.
+*→ [Is it safe to connect my bank?](/is-it-safe-to-connect-my-bank/)*
+
 **Connect your banks** (the automatic way): **Banks → + Connect a bank**.
 Sign in through Plaid — your bank password never touches us. Connect
 everything money moves through: checking, savings, credit cards. From now on,
@@ -105,7 +109,9 @@ Setup was the easy part. The habit is three small moves:
 
 - **A few times a week (5 minutes):** Transactions → **Unreviewed only** →
   categorize → done. Glance at the timestamp by **↻ Sync**: green fresh,
-  red stale.
+  red stale. If a bank asks you to sign in again, the Banks page has a
+  **Reconnect** button — that's routine, not a failure.
+  *→ [Banks](/screens/banks/)*
 - **When a category runs dry:** don't quit — **move money**. Click the
   Available number, take from a category that can spare it.
 - **Payday:** new money lands in Ready to Assign. Assign it to zero. Each
