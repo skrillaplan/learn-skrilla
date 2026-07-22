@@ -87,6 +87,8 @@ don't. Vary the thought or cut it.
 - "No uppercase-symbol-number theater." → signing-in
 - "Zero is a decision too." → budget (inheritance)
 - "The privacy policy takes five minutes to read, on purpose." → what-we-dont-do
+- "This screen only knows how to unlock." → achievements
+- "Read the locked ones as a menu, not a chore." → achievements
 
 ---
 
