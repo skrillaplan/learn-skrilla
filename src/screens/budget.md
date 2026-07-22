@@ -63,11 +63,25 @@ transaction — "Starting balance," dated the first of your start month,
 visible in Transactions like anything else. Click it again later and it
 re-books that same transaction; it never stacks a second one.
 
-After that, the two numbers should agree, and the gap becomes a signal.
-Pending charges make it wobble a few dollars for a day or two — the
-bank's timing, not an error. A gap that *grows* usually means an account
-you never connected. No per-account registers, no line-by-line
-reconciling: one comparison, one adjustment.
+After that, the two numbers should agree. When they don't, the panel says
+why — you don't have to work it out.
+
+Pending charges get counted. Your bank has already subtracted them; your
+budget waits until they settle. The panel names that exact amount, so you
+can see how much of the gap closes on its own. That part asks nothing of
+you.
+
+A quiet account gets named. When a connection hasn't refreshed in a day or
+so, the panel says which one and how long it's been — instead of leaving
+you to check five accounts one at a time. Banks run slow sometimes. Most
+come back on the next sync.
+
+And if the gap is meaningfully wider than it was last week, the panel says
+so. That's the line to read twice. A gap you close once is ordinary; a gap
+that keeps growing usually means an account you never connected.
+
+No per-account registers, no line-by-line reconciling: one comparison, one
+adjustment, and a sentence telling you which is which.
 
 ## The month
 
