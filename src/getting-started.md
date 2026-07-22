@@ -118,6 +118,10 @@ Set a **goal** on one category this week (click its name — 🎯). An emergency
 fund of $500 is a fine first goal. Watch the bar fill. That bar is you,
 keeping a promise to yourself.
 
+Wondering what else the app does? **Achievements** counts what you've pulled
+off — and the locked ones spell out what you haven't tried yet.
+*→ [Achievements](/screens/achievements/)*
+
 Sharing the budget? An invite from the **Account** screen brings your
 partner in — same budget, live, with an activity log so nobody wonders who
 moved what. *→ [Share the budget with your household](/guides/household-sharing/)*
